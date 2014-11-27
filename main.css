@@ -66,7 +66,7 @@ li {
 }
 
 /*I searched Piazza and Github and saw students styling the paragraphs rather than the text.
-Once I deleted .text and set the font-size in p everything fell in place!*/
+Once I deleted .text and set the font-size in p{} everything fell in place!*/
 p {
 	font-size: 16px;
 }
